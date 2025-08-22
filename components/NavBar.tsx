@@ -15,7 +15,7 @@ const NavBar = () => {
       </div>
       <div className='hidden md:flex gap-10'>
         <div >
-          <Link href="/" className=' text-sm md:text-lg  font-bold capitalize cursor-pointer text-blue-300 hover:text-gray-600 transition-colors'>Our Works</Link>
+          <Link href="/OurWorks" className=' text-sm md:text-lg  font-bold capitalize cursor-pointer text-blue-300 hover:text-gray-600 transition-colors'>Our Works</Link>
         </div>
         <div >
           <Link href="/" className=' text-sm md:text-lg  font-bold capitalize cursor-pointer text-blue-300 hover:text-gray-600 transition-colors'>Resin Calculator</Link>
